@@ -1,0 +1,24 @@
+{
+  "name": "remener-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with 24/7 voice channel monitoring and GitHub webhook receiver",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "voice",
+    "github",
+    "webhook"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.0"
+  }
+}
