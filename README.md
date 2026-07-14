@@ -6,10 +6,10 @@ Discord bot that monitors a voice channel 24/7 and forwards GitHub issues & PRs 
 
 ## Features
 
-- **🔊 Voice Monitor** — Bot sits in a voice channel and pings your team when someone joins
-- **🐛 Issue Alerts** — New GitHub issues appear as embeds with a **"Take this Issue"** button
-- **🔀 PR Review** — New PRs appear as embeds with a **"Review this PR"** button
-- **🙋 Self-Assign** — Team members click buttons to volunteer — the embed updates live
+- ** Voice Monitor** — Bot sits in a voice channel and pings your team when someone joins
+- ** Issue Alerts** — New GitHub issues appear as embeds with a **"Take this Issue"** button
+- ** PR Review** — New PRs appear as embeds with a **"Review this PR"** button
+- ** Self-Assign** — Team members click buttons to volunteer — the embed updates live
 
 ---
 
